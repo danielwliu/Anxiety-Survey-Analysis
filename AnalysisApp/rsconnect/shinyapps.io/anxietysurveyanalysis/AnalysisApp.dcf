@@ -1,0 +1,8 @@
+name: AnalysisApp
+account: anxietysurveyanalysis
+server: shinyapps.io
+bundleId: 319111
+url: https://anxietysurveyanalysis.shinyapps.io/AnalysisApp
+when: 1448488842.1406
+asMultiple: FALSE
+asStatic: FALSE
